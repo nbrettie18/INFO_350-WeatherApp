@@ -1,0 +1,5 @@
+# deploy/app.yaml
+runtime: nodejs18
+instance_class: F1
+env_variables:
+  OPENWEATHER_API_KEY: "be652ec15c8213672e73cd302e604b0b"
